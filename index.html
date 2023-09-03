@@ -18,10 +18,17 @@
        <p>Hello!</a></p>
      </div>
    </div>
-   <footer>
+   <footer onload="myFunction()">
    <ul>
      <li><a href="mailto:huayi.li@uky.edu">huayi.li@uky.edu</a></li>
    </ul>
+   This is last updated time <span id="demo"></span>
+   <script>
+     function myFunction() {
+       var x = document.lastModified;
+       document.getElementById("demo").innerHTML = x;
+     }
+   </script>
    </footer>
  </body>
 </html>
