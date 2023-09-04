@@ -1,12 +1,19 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto;
+    width: 75%;
+    text-align: left;
+    color:#fff;
+    padding-top:5em;
 }
+* { color:#001780; text-decoration: none;}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -14,14 +21,15 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #271a53;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.5em;
+    font-family: 'Courier';
+    margin-top: 80px;
 }
 p {
     font-size: 1.5em;
@@ -30,7 +38,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 ul.posts { 
