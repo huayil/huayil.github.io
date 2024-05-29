@@ -5,17 +5,16 @@ var aText = new Array(
     "",
     "I am an Assistant Professor in Mechanical and Aerospace Engineering.",
     "I study controls for mobility systems, such as self-driving cars, by applying game-theoretic, set-theoretic, and optimal control techniques.",
-    "I teach dynamic systems and control at the Paducah campus of the University of Kentucky.",
+    "I teach in the area of autonomous systems and control.",
     "",
     "This website is currently under development.",
-    "Meanwhile, you may check out my CV and find me on Google Scholar or LinkedIn.",
+    "Meanwhile, please check out my CV and find me on Google Scholar or LinkedIn.",
     "",
     "Thanks for visiting :)",
     "",
     "73",
-    "",
     );
-    var iSpeed = 35; // time delay of print out
+    var iSpeed = 30; // time delay of print out
     var iIndex = 0; // start printing array at this posision
     var iArrLength = aText[0].length; // the length of the text array
     var iScrollAt = 20; // start scrolling up at this many lines
