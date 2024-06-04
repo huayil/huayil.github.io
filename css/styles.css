@@ -7,14 +7,14 @@ body {
 }
 
 .container0 {
-    width: 1400px;
+    width: 1280px;
     height: 100px;
     margin: 0 auto;
     border: 1px solid black;
     /* border: 1px solid white; */
 }
 .container1 {
-    width: 1360px;
+    width: 1280px;
     min-height: 700px;
     height: auto;
     margin: 0 auto;
@@ -25,14 +25,14 @@ body {
     /* border: 1px solid white; */
 }
 .container2 {
-    width: 1400px;
+    width: 1280px;
     height: 50px;
     margin: 0 auto;
     border: 1px solid black;
     /* border: 1px solid white; */
 }
 .container3 {
-    width: 1400px;
+    width: 1280px;
     height: 15px;
     margin: 0 auto;
     border: 1px solid black;
@@ -40,7 +40,7 @@ body {
 }
 
 
-.container0 {
+/* .container0 {
     border: 1px solid white;
 }
 .container1 {
@@ -51,7 +51,7 @@ body {
 }
 .container3 {
     border: 1px solid white;
-}
+} */
 
 
 nav {

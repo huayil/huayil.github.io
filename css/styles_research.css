@@ -9,7 +9,7 @@
   }
 
   #citations ol {
-    width: 1260px;
+    width: 1180px;
     font-family: Arial;
     font-size: 12pt;
     margin-left: 24pt;
@@ -34,7 +34,7 @@
   }
 
   p {
-    width: 1270px;
+    width: 1190px;
     font-size: 14pt;
     font-family: 'Arial';
     margin-left: 38pt;
@@ -43,7 +43,7 @@
 
 
   .custom-list {
-    width: 1280px;
+    width: 1200px;
     list-style-type: none; /* Remove default bullet point */
     font-family: 'Times New Roman';
     text-align: justify;
