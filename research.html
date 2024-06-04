@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Huayi Li</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/styles_research.css">
+</head>
+
+<body>
+  <div class="container0">
+    <nav>
+      <ul>
+        <li><a href="./mysite.html">Home</a></li>
+        <li class="onclick"><a href="./research.html">Research</a></li>
+        <li><a href="./teaching.html">Teaching</a></li>
+        <li><a href="./join.html">Join</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="container1">
+    <div class="blurb">
+
+      <button id="toggleButton">+ Expand All</button>
+
+      <br>
+      <div class="half-line-space"></div>
+
+      <h1>Current Projects</h1>
+
+      <h2>Fault-Tolerant Control for Safety-Critical Mobility Systems</h2>
+
+      <h3 class="collapsible">Set-Theoretic Fault-Tolerant Control for Aircraft Longitudinal Flight</h3>
+      <div class="content">
+        <p>
+          Fault-tolerant control (FTC) for safety-critical applications,
+          e.g., aircraft flight control,
+          where a reference governor-centric framework with a set membership-based offline design is developed
+          to guarantee the online feasibility of safe operation, failure isolation, and system reconfiguration while
+          tracking references.
+        </p>
+
+        <div id="citations">
+          <ul class="custom-list">
+            <li>
+              M. Castroviejo-Fernandez, H. Li, A. Cotorruelo, E. Garone, and I. Kolmanovsky,
+              "Less conservative robust reference governors and their applications,"
+              <i>European Journal of Control</i>,
+              under review.
+            </li>
+            <li>
+              H. Li, I. Kolmanovsky, and A. Girard,
+              "Integrating failure detection and isolation into a reference governor-based reconfiguration strategy for
+              stuck actuators,"
+              in <i>2022 American Control Conference (ACC)</i>,
+              pp. 4311-4316, IEEE, 2022.
+            </li>
+            <li>
+              H. Li, I. Kolmanovsky, and A. Girard,
+              "Set-theoretic failure mode reconfiguration for stuck actuators,"
+              <i>IEEE Control Systems Letters</i>,
+              vol. 6, pp. 1316-1321, 2021.
+            </li>
+            <li>
+              H. Li, I. Kolmanovsky, and A. Girard,
+              "A failure mode reconfiguration strategy based on constraint admissible and recoverable sets,"
+              in <i>2021 American Control Conference (ACC)</i>,
+              pp. 4771-4776, IEEE, 2021.
+            </li>
+          </ul>
+
+        </div>
+
+      </div>
+
+      <h2>Motion Planning and Control for Connected and Autonomous Vehicles</h2>
+
+      <h3 class="collapsible">Safe and Energy-Efficient Autonomous Driving</h3>
+      <div class="content">
+        <p>
+          Safe and energy-aware autonomous driving,
+          where the training of the reinforcement learning (RL) controller is facilitated by
+          a level-k game-theoretic shared-traffic simulator augmented with an electric vehicle (EV) energy model.
+        </p>
+
+        <div id="citations">
+          <ul class="custom-list">
+            <li>
+              H. Li, N. Li, I. Kolmanovsky, and A. Girard,
+              "Energy-efficient autonomous vehicle control using reinforcement learning and interactive traffic
+              simulations,"
+              in <i>2020 American Control Conference (ACC)</i>,
+              pp. 3029-3034, IEEE, 2020.
+            </li>
+            <li>
+              H. Li, N. Li, I. Kolmanovsky, and A. Girard,
+              "Energy-efficient autonomous driving using cognitive driver behavioral models and reinforcement learning,"
+              in <i>AI-enabled Technologies for Autonomous and Connected Vehicles</i>,
+              pp. 283-305, Springer, 2022.
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <h3 class="collapsible">Guaranteed-Safe Overtaking on Rural Highways</h3>
+      <div class="content">
+        <p>
+          Motion planning and control for autonomous driving with guaranteed safe overtaking on two-lane rural highways
+          using trajectory optimization and (set-theoretic) reference governor.
+        </p>
+
+        <div id="citations">
+          <ul class="custom-list">
+            <li>
+              H. Li, F. Assadian, and R. Langari,
+              "A reference governor-based autonomous driving control strategy for guaranteed safe overtaking,"
+              <i>IEEE Transactions on Intelligent Transportation Systems</i>,
+              under review.
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="half-line-space"></div>
+      <h1>Past Projects</h1>
+
+      <h3 class="collapsible">Control-Oriented Engine Modeling</h3>
+      <div class="content">
+        <p>
+          Development of diesel engine air path and NOx, soot, and HC emission models as plant models to facilitate
+          research of advanced control techniques.
+        </p>
+
+        <div id="citations">
+          <ul class="custom-list">
+            <li>
+              H. Li, K. Butts, K. Zaseck, D. Liao-McPherson, and I. Kolmanovsky,
+              "Emissions modeling of a light-duty diesel engine for model-based control design using multi-layer
+              perceptron neural networks,"
+              tech. rep., SAE Technical Paper, 2017.
+            </li>
+          </ul>
+
+        </div>
+
+      </div>
+
+      <h3 class="collapsible">Hybrid Electric Vehicle Powertrain Configuration Analysis</h3>
+      <div class="content">
+        <p>
+          Development of a powertrain simulation platform with optimal control-based energy management systems (EMS)
+          to analyze fuel economy, acceleration performance, and longitudinal riding comfort.
+        </p>
+
+      </div>
+
+    </div>
+
+    <br>
+    <br>
+
+  </div>
+  </div>
+  <script src="collapser.js"></script>
+
+
+  <div id="footer"></div>
+  <script src="footer.js"></script>
+
+
+</body>
+
+</html>
