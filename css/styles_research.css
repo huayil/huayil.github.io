@@ -1,0 +1,66 @@
+.content {
+    display: none;
+    font-size: 14pt;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+  }
+
+  #citations ol {
+    width: 1260px;
+    font-family: Arial;
+    font-size: 12pt;
+    margin-left: 24pt;
+  }
+
+  h1 {
+    font-size: 18pt;
+    font-family: 'Arial';
+  }
+
+  h2 {
+    font-size: 16pt;
+    font-family: 'Arial';
+    margin-left: 12pt;
+  }
+
+  h3 {
+    font-size: 14pt;
+    font-family: 'Arial';
+    margin-left: 24pt;
+    text-decoration: underline;
+  }
+
+  p {
+    width: 1270px;
+    font-size: 14pt;
+    font-family: 'Arial';
+    margin-left: 38pt;
+    text-align: justify;
+  }
+
+
+  .custom-list {
+    width: 1280px;
+    list-style-type: none; /* Remove default bullet point */
+    font-family: 'Times New Roman';
+    text-align: justify;
+  }
+
+  .custom-list li {
+      text-indent: -12pt; /* Set a negative text indent to create a hanging indent */
+      padding-left: 12pt; /* Add padding to the left to maintain the same indent space */
+      margin-bottom: 3pt;
+  }
+
+  .custom-list li::before {
+      content: "\2022"; /* Use Unicode character for bullet point */
+      margin-right: 3pt; /* Add some space between bullet point and text */
+  }
+
+
+  .imgc{
+    margin-left: 480px;
+  }

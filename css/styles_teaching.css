@@ -1,0 +1,43 @@
+.container1 {
+    justify-content: center;
+    }
+
+    .content {
+      display: none;
+      font-size: 14pt;
+    }
+
+    h1 {
+      font-size: 18pt;
+      font-family: 'Arial';
+      margin-top: 0pt;
+    }
+
+    h2 {
+      font-size: 16pt;
+      font-family: 'Arial';
+      margin-left: 12pt;
+      /* text-decoration: underline; */
+    }
+
+    p {
+      width: 1150px;
+      font-size: 14pt;
+      font-family: 'Arial';
+      margin-left: 32pt;
+      text-align: justify;
+    }
+
+    .p0 {
+      width: 1170px;
+      font-family: 'Courier';
+      font-weight: bold;
+      font-size: 17pt;
+      margin-left: 12pt;
+      margin-right: 12pt;
+      color: dimgrey;
+    }
+
+    .p1 {
+      margin-top: -2pt;
+    }
