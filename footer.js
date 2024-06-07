@@ -5,7 +5,7 @@ var footerText = `
     <a href="https://scholar.google.com/citations?user=8cgJVukAAAAJ" class="link1" target="_blank">Google
       Scholar</a>
     &nbsp; | &nbsp;
-    <a href="https://www.linkedin.com/in/lihuayi" class="link1" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/huayil" class="link1" target="_blank">LinkedIn</a>
 </div>
 </div>
 
