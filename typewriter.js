@@ -7,7 +7,7 @@ var aText = new Array(
     "",
     "My name is Huayi Li.",
     "I am an Assistant Professor in Mechanical and Aerospace Engineering.",
-    "I recieved my PhD at the University of Michigan, Ann Arbor in 2022.",
+    "I received my PhD at the University of Michigan, Ann Arbor in 2022.",
     "",
     "My research focuses on constrained and optimal controls for mobility applications, such as aircraft and self-driving cars, by applying game-theoretic and set-theoretic techniques.",
     "I also teach in the field  of autonomous systems and control.",
