@@ -8,11 +8,14 @@
     margin: auto;
   }
 
-  #citations ol {
-    width: 1180px;
+  #citations ul {
+    width: 1190px;
     font-family: Arial;
     font-size: 12pt;
-    margin-left: 24pt;
+    margin-left: 9pt;
+    /* margin-top: -6pt; */
+    line-height: 1.2;
+    /* border: 1px solid black; */
   }
 
   h1 {
@@ -30,7 +33,7 @@
     font-size: 14pt;
     font-family: 'Arial';
     margin-left: 24pt;
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
 
   p {
@@ -39,6 +42,7 @@
     font-family: 'Arial';
     margin-left: 38pt;
     text-align: justify;
+    /* border: 1px solid black; */
   }
 
 

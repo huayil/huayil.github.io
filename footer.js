@@ -1,11 +1,14 @@
 var footerText = `
 <div class="container2">
 <div class="text">
-    <a href="./hl_cv_2p.pdf" class="link1" target="_blank">CV</a> &nbsp; | &nbsp;
-    <a href="https://scholar.google.com/citations?user=8cgJVukAAAAJ" class="link1" target="_blank">Google
-      Scholar</a>
+    <a href="mailto:huayil@umich.edu" class="link1">Email</a>
     &nbsp; | &nbsp;
-    <a href="https://www.linkedin.com/in/huayil" class="link1" target="_blank">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=8cgJVukAAAAJ" class="link1" target="_blank">Google Scholar</a>
+    &nbsp; | &nbsp;
+    <a href="https://www.linkedin.com/in/lihuayi" class="link1" target="_blank">LinkedIn</a>
+    &nbsp; | &nbsp;
+    <a href="https://www.engr.uky.edu/directory/huayi-li#:~:text=Join" class="link1" target="_blank">Join</a>
+    
 </div>
 </div>
 
