@@ -9,7 +9,7 @@ var aText = new Array(
     "I am an Assistant Professor in Mechanical and Aerospace Engineering.",
     "I received my PhD at the University of Michigan, Ann Arbor in 2022.",
     "",
-    "My research focuses on constrained and optimal controls for mobility applications, such as aircraft and self-driving cars, by applying game-theoretic and set-theoretic techniques.",
+    "My research focuses on constrained and optimal control for mobility applications, such as aircraft and self-driving cars, by applying game-theoretic and set-theoretic techniques.",
     "I also teach in the field  of autonomous systems and control.",
     "",
     "Please feel free to check out my research projects and taught courses on this website.",
