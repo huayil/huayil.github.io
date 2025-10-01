@@ -1,0 +1,40 @@
+.container1 {
+    justify-content: center;
+}
+
+h1 {
+  font-size: 18pt;
+  font-family: 'Arial';
+  margin-bottom: -9pt;
+}
+
+p {
+  font-family: 'Arial';
+}
+
+.p0 {
+  font-family: 'Courier';
+  font-weight: bold;
+  font-size: 18pt;
+  text-align: center;
+  color: dimgrey;
+}
+
+.p1 {
+  font-size: 16pt;
+  margin-left: 12pt;
+  margin-bottom: -9pt;
+}
+
+.p2 {
+  font-size: 14pt;
+  margin-left: 24pt;
+  line-height: 160%;
+  /* margin-bottom: 12pt; */
+}
+.myspace1 {
+margin-top: 36pt;
+}
+.myspace2 {
+margin-top: 24pt;
+}

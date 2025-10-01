@@ -3,22 +3,19 @@ var myGS = '<a href="https://scholar.google.com/citations?user=8cgJVukAAAAJ" tar
 var myLI = '<a href="https://www.linkedin.com/in/lihuayi" target="_blank">LinkedIn</a>';
 
 var aText = new Array(
-    "Howdy!",
+    "Howdy!", 
     "",
     "My name is Huayi Li.",
     "I am an Assistant Professor in Mechanical and Aerospace Engineering.",
-    "I received my PhD at the University of Michigan, Ann Arbor in 2022.",
     "",
-    "My research focuses on constrained and optimal control for mobility applications, such as aircraft and self-driving cars, by applying game-theoretic and set-theoretic techniques.",
+    "My research focuses on constrained and optimal controls for mobility applications, such as connected and autonomous driving, by applying game-theoretic and set-theoretic techniques.",
     "I also teach in the field  of autonomous systems and control.",
     "",
-    "Please feel free to check out my research projects and taught courses on this website.",
+    "Please feel free to check out my research projects, courses taught, and contact information on this website.",
     "",
-    "Thanks for visiting :)",
-    "",
-    "73"
+    "Thanks for visiting :)"
     );
-var iSpeed = 22; // time delay of print out
+var iSpeed = 15; // time delay of print out
 var iIndex = 0; // start printing array at this posision
 var iArrLength = aText[0].length; // the length of the text array
 var iScrollAt = 20; // start scrolling up at this many lines

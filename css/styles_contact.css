@@ -1,0 +1,23 @@
+.photo {
+    width: 650px;
+    margin-top: 50pt;
+  }
+
+  .content {
+    width: 750px;
+    margin-left: 36pt;
+    margin-top: 80pt;
+  }
+
+  h1 {
+    font-size: 18pt;
+    font-family: 'Arial';
+    /* margin-top: 36pt; */
+  }
+
+  p {
+    font-size: 16pt;
+    font-family: 'Arial';
+    margin-left: 3pt;
+    line-height: 100%;
+  }
